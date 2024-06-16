@@ -1,3 +1,4 @@
+// page.tsx must always be available
 import React from "react";
 
 const Home = () => {
